@@ -1,0 +1,2 @@
+# memoteca
+Anotacoes Citacoes Frases 
